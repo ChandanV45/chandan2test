@@ -1,0 +1,56 @@
+1.method overloading is a same method in that 
+
+
+class car
+{
+static void skill(int price,string name)
+{
+System.out.println("invoking main in car");
+}
+public static void main(Strings[] args);
+{
+class.skill('2500',audi);
+}
+}
+
+2.there are 4types
+  -static variable
+  -local variable
+  -
+
+
+4.class College
+ {
+   string name;
+   int donation;
+   long number;
+}
+
+class CollegeRunner{
+   System.out.println("invoking main in collegerunner");
+{
+  College c1=new College;
+College c2=new College;
+College c3=new College;
+
+public static void main(Strings[] args);
+{
+
+
+5. class Cricket{
+  static  string team;
+  static  int player;
+  {
+System.out.println("invokimg main in cricket");
+Cricket cri1=new Cricket;
+}
+System.out.println("invoking main string");
+System.out.println("invoking string,int);
+
+
+
+
+     
+
+
+ 
